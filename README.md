@@ -34,7 +34,7 @@
 <br>
 🔥 TAKE DOWN ROLLBIT.COM
 <br>
-<H1> IMPORTANT! TURN OFF YOUR ANTIVIRUS BEFORE USE, BECAUSE OF DDOS ABILITY, ITS DETECTED! (IF YOU HAVE ANY PROBLEM, RUN AS ADMINISTRATOR) </h1>
+<H1> IMPORTANT! TURN OFF YOUR ANTI-VIRUS BEFORE USE. SOMETIMES WINDOWS DEFENDER AND OTHER AV PROGRAMS SHOW A FALSE POSITIVE (IF YOU HAVE ANY PROBLEM, RUN AS ADMINISTRATOR) </h1>
 
 
 <br>
@@ -44,6 +44,6 @@
 <br>
 
 --------------------------------------------------------------------------------
-this program was not created by me. i am simply sharing to the public.
+This program was not created by me. i am simply sharing to the public.
 warning: it is illegal to ddos a target without consent from the owner you are ddosing. we are not liable for any damages or claims that may or may not come from your private educational use of this program. you promise to not hold the github user responsible for any claims. </h2>
 
